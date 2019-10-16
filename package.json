@@ -1,0 +1,17 @@
+{
+  "name": "Desafio-AC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wesllen-medeiros/Desafio-AC.git",
+  "author": "Wesllen Medeiros <55211366+wesllen-medeiros@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+      "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
